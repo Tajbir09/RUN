@@ -184,4 +184,4 @@ void stopMotors() {
 ✅ Arduino interprets the commands and drives the motors.  
 ✅ Uses Serial Communication between Ubuntu and Arduino.  
 
-Would you like to add **encoder feedback** or **sensor integration** for autonomous navigation? 🚗💨
+
